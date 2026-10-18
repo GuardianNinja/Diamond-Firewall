@@ -1,0 +1,1 @@
+{"routes":["/","/threats","/policy","/evidence","/quarantine","/ceremony"],"actions":{"manual_harden":"operator-authenticated","full_hardening":"master-authorized","override_approval":"human-authorized"},"widgets":["mode_selector","resilience_gauge","collapse_history","policy_decision_stream","evidence_table","quarantine_queue"]}
